@@ -1,6 +1,6 @@
 ## 42 Piscine
 
-![](Images/Piscine picture)
+![](Images/Piscine%20picture)
 
 The "Piscine" is the 42 school entrance examination.  
 
