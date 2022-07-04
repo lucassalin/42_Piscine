@@ -1,6 +1,6 @@
 ## 42 Piscine
 
-![Bad internet connection bro](https://letank.org/pourquoi-je-fais-la-piscine-de-lecole-42/)
+![](Images/Piscine picture)
 
 The "Piscine" is the 42 school entrance examination.  
 
