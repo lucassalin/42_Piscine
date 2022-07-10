@@ -78,3 +78,4 @@ char	*ft_strjoin(int size, char **strs, char *sep)
 	res[ft_strlen(res)] = 0;
 	return (res);
 }
+
